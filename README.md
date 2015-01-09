@@ -1,7 +1,6 @@
 # PingPong
 
 Author: Dawid Wiktor
-OREL Sofware
 
 To play OREL PingPong you need Kivy and Python. You can download Kivy here: http://kivy.org/ and Python: https://www.python.org/
 
